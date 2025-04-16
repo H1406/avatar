@@ -1,0 +1,11 @@
+{
+    "name":"Aang",
+    "image":"https://files.lighthouse.storage/viewFile/bafkreicnpijysro56lkk23fparslaf5bv3w2ouv36lvfwfx7so7bmb7the",
+    "stats":[
+        {
+            "health":100,
+            "atk":20,
+            "def":10
+        }       
+    ]
+}
